@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'GenSenMaruGothic';
+    src: url('/fonts/GenSenMaruGothic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  body {
+    font-family: 'GenSenMaruGothic', sans-serif;
+  }
+
+  h1 {
+    font-weight: bold;
+  }
+
+  p {
+    font-size: 16px;
+  }
